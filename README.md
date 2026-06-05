@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nikhil
 
-###🎓 Computer Science Engineering student at Velammal Engineering College, Chennai.
+### 🎓 Computer Science Engineering student at Velammal Engineering College, Chennai.
 
 ### 💻 Passionate about Software Development, Data Analytics, AI/ML, and UI/UX Design. I enjoy building practical solutions that combine technology, creativity, and problem-solving.
 
