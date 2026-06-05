@@ -1,5 +1,27 @@
+# Hi there 👋, I'm Nikhil
 
-## 🌐 Socials:
+🎓 Computer Science Engineering student at Velammal Engineering College, Chennai.
+
+💻 Passionate about Software Development, Data Analytics, AI/ML, and UI/UX Design. I enjoy building practical solutions that combine technology, creativity, and problem-solving.
+
+🚀 Currently exploring:
+
+* Full Stack Development (React, Node.js)
+* Machine Learning & AI Applications
+* Data Analytics & Visualization
+* UI/UX Design and Product Development
+
+📌 Featured Projects:
+
+* Heart Failure Prediction using Machine Learning & Django
+* GigSense – AI-Powered Freelance Marketplace
+* UI/UX Design Portfolio
+
+🌱 Always learning, building, and improving through real-world projects and industry certifications.
+
+> "Turning ideas into impactful digital solutions."
+
+## 📫 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhilsathish20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsathish20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilsathish20@gmail.com) 
 
 # 💻 Tech Stack:
