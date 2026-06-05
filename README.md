@@ -1,17 +1,17 @@
 # Hi there 👋, I'm Nikhil
 
-🎓 Computer Science Engineering student at Velammal Engineering College, Chennai.
+###🎓 Computer Science Engineering student at Velammal Engineering College, Chennai.
 
-💻 Passionate about Software Development, Data Analytics, AI/ML, and UI/UX Design. I enjoy building practical solutions that combine technology, creativity, and problem-solving.
+### 💻 Passionate about Software Development, Data Analytics, AI/ML, and UI/UX Design. I enjoy building practical solutions that combine technology, creativity, and problem-solving.
 
-🚀 Currently exploring:
+## 🚀 Currently exploring:
 
 * Full Stack Development (React, Node.js)
 * Machine Learning & AI Applications
 * Data Analytics & Visualization
 * UI/UX Design and Product Development
 
-📌 Featured Projects:
+## 📌 Featured Projects:
 
 * Heart Failure Prediction using Machine Learning & Django
 * GigSense – AI-Powered Freelance Marketplace
