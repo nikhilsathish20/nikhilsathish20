@@ -1,7 +1,7 @@
 ![imagg.png](https://github.com/nikhilsathish20/nikhilsathish20/blob/main/imagg.png)
 # Hi there 👋, I'm Nikhil
 
-### 🎓 Computer Science Engineering student at Velammal Engineering College, Chennai.
+### 🎓 Computer Science Engineering Student at Velammal Engineering College, Chennai.
 
 ### 💻 Passionate about Software Development, Data Analytics, AI/ML, and UI/UX Design. I enjoy building practical solutions that combine technology, creativity, and problem-solving.
 
@@ -10,7 +10,8 @@
 * Full Stack Development (React, Node.js)
 * Machine Learning & AI Applications
 * Data Analytics & Visualization
-* UI/UX Design and Product Development
+* UI/UX and Graphic Design
+* Product Development
 
 ## 📌 Featured Projects:
 
